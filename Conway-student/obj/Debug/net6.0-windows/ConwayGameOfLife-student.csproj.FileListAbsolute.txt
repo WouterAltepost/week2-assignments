@@ -1,0 +1,41 @@
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.exe
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.deps.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.runtimeconfig.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.csproj.AssemblyReference.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student_MarkupCompile.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student_MarkupCompile.lref
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.g.resources
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.AssemblyInfoInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.AssemblyInfo.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\refint\ConwayGameOfLife-student.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.genruntimeconfig.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\Conway-student\obj\Debug\net6.0-windows\ref\ConwayGameOfLife-student.dll
+C:\Users\wouta\OneDrive\Desktop\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.exe
+C:\Users\wouta\OneDrive\Desktop\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.deps.json
+C:\Users\wouta\OneDrive\Desktop\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.runtimeconfig.json
+C:\Users\wouta\OneDrive\Desktop\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.dll
+C:\Users\wouta\OneDrive\Desktop\Conway-student\bin\Debug\net6.0-windows\ConwayGameOfLife-student.pdb
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student_MarkupCompile.cache
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student_MarkupCompile.lref
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.g.resources
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.AssemblyInfoInputs.cache
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.AssemblyInfo.cs
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.dll
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\refint\ConwayGameOfLife-student.dll
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.pdb
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ConwayGameOfLife-student.genruntimeconfig.cache
+C:\Users\wouta\OneDrive\Desktop\Conway-student\obj\Debug\net6.0-windows\ref\ConwayGameOfLife-student.dll
